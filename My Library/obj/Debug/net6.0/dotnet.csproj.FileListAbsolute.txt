@@ -1,0 +1,15 @@
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.csproj.AssemblyReference.cache
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.AssemblyInfoInputs.cache
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.AssemblyInfo.cs
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/homie/Desktop/1994/My Library/bin/Debug/net6.0/dotnet
+/Users/homie/Desktop/1994/My Library/bin/Debug/net6.0/dotnet.deps.json
+/Users/homie/Desktop/1994/My Library/bin/Debug/net6.0/dotnet.runtimeconfig.json
+/Users/homie/Desktop/1994/My Library/bin/Debug/net6.0/dotnet.dll
+/Users/homie/Desktop/1994/My Library/bin/Debug/net6.0/ref/dotnet.dll
+/Users/homie/Desktop/1994/My Library/bin/Debug/net6.0/dotnet.pdb
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.dll
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/ref/dotnet.dll
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.pdb
+/Users/homie/Desktop/1994/My Library/obj/Debug/net6.0/dotnet.genruntimeconfig.cache
