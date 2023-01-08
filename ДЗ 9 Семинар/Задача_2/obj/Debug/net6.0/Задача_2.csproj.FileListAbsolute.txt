@@ -1,0 +1,15 @@
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/bin/Debug/net6.0/Задача_2
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/bin/Debug/net6.0/Задача_2.deps.json
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/bin/Debug/net6.0/Задача_2.runtimeconfig.json
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/bin/Debug/net6.0/Задача_2.dll
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/bin/Debug/net6.0/ref/Задача_2.dll
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/bin/Debug/net6.0/Задача_2.pdb
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.csproj.AssemblyReference.cache
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.AssemblyInfoInputs.cache
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.AssemblyInfo.cs
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.csproj.CoreCompileInputs.cache
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.dll
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/ref/Задача_2.dll
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.pdb
+/Users/homie/Desktop/1994/ДЗ 9 Семинар/Задача_2/obj/Debug/net6.0/Задача_2.genruntimeconfig.cache
